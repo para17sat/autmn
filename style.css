@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: brown;
+    background-image: url('https://cdn.culture.ru/images/c7cc7668-a90a-55c4-9446-1f6e26f7db59');
+    background-size: cover;
+    color: #333;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 3em;
+    color:white;
+}
+
+p {
+    font-size: 1.2em;
+    color:white;
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.time-box {
+    background-color:whitesmoke;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.time {
+    display: block;
+    font-size: 2.5em;
+    color:firebrick;
+}
+
+.label {
+    display: block;
+    margin-top: 5px;
+    font-size: 1.2em;
+    color: firebrick;
+}
+
+
+
+
+
+
